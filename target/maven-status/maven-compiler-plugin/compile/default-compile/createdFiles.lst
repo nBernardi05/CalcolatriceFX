@@ -1,0 +1,11 @@
+model\Frazione.class
+com\bernardispa\calcolatricefx\PrimaryController.class
+model\OperazioniFrazione.class
+model\Parentesi.class
+com\bernardispa\calcolatricefx\SecondaryController.class
+model\EspressioneNonValidaException.class
+com\bernardispa\calcolatricefx\App.class
+module-info.class
+model\Espressione$1.class
+model\Espressione.class
+model\Operatore.class
